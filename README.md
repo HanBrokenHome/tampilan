@@ -45,7 +45,3 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanbrokenhome&layout=compact)
 
-## 📫 Hubungi Saya
-
-[![Instagram](https://img.shields.io/badge/Instagram-%40username-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/HanBrokenHome)
-
