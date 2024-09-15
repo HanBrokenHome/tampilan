@@ -5,9 +5,15 @@ Hi there, i'm Rayhan, Welcome to my github👋
  <!-- GIF dan Deskripsi Profil -->
 ![Your GIF Here](URL_GIF_Anda) 
 
-# Halo, Saya [Nama Anda] 👋
+# About Me 💻
 
-Saya seorang pengembang perangkat lunak dengan keahlian dalam berbagai teknologi web. Berikut adalah beberapa keterampilan dan pencapaian saya.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ## 🔧 Languages and Tools
 
