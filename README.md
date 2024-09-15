@@ -4,7 +4,7 @@ Hi there, i'm Rayhan, Welcome to my github👋
 </div>
  <div id="badges">
  <!-- GIF dan Deskripsi Profil -->
-![Your GIF Here](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVwOHE4eXB4eGlwM2ZzcWhweG41ZGlrdGU2MXZjOHR3Y3hkenkyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif) 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVwOHE4eXB4eGlwM2ZzcWhweG41ZGlrdGU2MXZjOHR3Y3hkenkyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
 
 # About Me 💻
 
