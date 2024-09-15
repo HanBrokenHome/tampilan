@@ -1,6 +1,6 @@
 Hi there, i'm Rayhan, Welcome to my github👋
 <div id="header" align="center">
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc2bmV2NGw2YmZ3OGU4bW1zcDN5bjgzZW5paHVoY2xkc2M2N29lbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>\
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc2bmV2NGw2YmZ3OGU4bW1zcDN5bjgzZW5paHVoY2xkc2M2N29lbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
  <img src="https://komarev.com/ghpvc/?hanbrokenhome&style=flat-square&color=blue" alt=""/>
  <div id="badges">
   
@@ -12,7 +12,7 @@ Hi there, i'm Rayhan, Welcome to my github👋
 
 - :telescope: I worked as a web developer and front end developer.
 
-- :seedling: I'm obsessed with technologyKik untuk menerapkan
+- :seedling: I'm obsessed with technology
 
 - :zap: In my free time, I will clean up all the code errors and shorten the code so that the web runs smoothly.
 
