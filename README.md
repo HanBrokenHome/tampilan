@@ -1,10 +1,12 @@
 Hi there, i'm Rayhan, Welcome to my github👋
 <div id="header" align="center">
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc2bmV2NGw2YmZ3OGU4bW1zcDN5bjgzZW5paHVoY2xkc2M2N29lbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
-</div>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc2bmV2NGw2YmZ3OGU4bW1zcDN5bjgzZW5paHVoY2xkc2M2N29lbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>\
+ <img src="https://komarev.com/ghpvc/?hanbrokenhome&style=flat-square&color=blue" alt=""/>
  <div id="badges">
+  
  <!-- GIF dan Deskripsi Profil -->
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVwOHE4eXB4eGlwM2ZzcWhweG41ZGlrdGU2MXZjOHR3Y3hkenkyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVwOHE4eXB4eGlwM2ZzcWhweG41ZGlrdGU2MXZjOHR3Y3hkenkyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+</div>
 
 # About Me 💻
 
