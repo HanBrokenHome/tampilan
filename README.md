@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+there👋;Welcome+To+My+Github🐱‍🏍"/></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+there👋;Welcome+To+My+Github🐱‍🏍"/></a>
  <div id="badges">
   <a href="https://www.instagram.com/hanwithreactoemji/">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
