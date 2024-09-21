@@ -1,11 +1,12 @@
 <div id="header" align="center">
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc2bmV2NGw2YmZ3OGU4bW1zcDN5bjgzZW5paHVoY2xkc2M2N29lbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto"/><div id="badges">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+there👋;Welcome+To+My+Github🐱‍🏍"/></a>
+ <div id="badges">
   <a href="https://www.instagram.com/hanwithreactoemji/">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <h1>
   heyyy
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc2bmV2NGw2YmZ3OGU4bW1zcDN5bjgzZW5paHVoY2xkc2M2N29lbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto"/>
 </h1>
 </div>
  <div id="badges">
