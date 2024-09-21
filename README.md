@@ -22,7 +22,7 @@
 
 - :zap: In my free time, I will clean up all the code errors and shorten the code so that the web runs smoothly.
 
-- 🤔 did you know, I learned web development from the age of 14, and even then using a smartphone.
+- 🤔 Fun Fact, i am funny
 
 ## 🔧 Languages and Tools
 
@@ -38,11 +38,11 @@
 </div>
  </div>
 
-## 🌟 My Streak
+## 🌟 My Streak🔥🔥
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HANBROKENHOME)
 
-## 💻 Bahasa Pemrograman Teratas
+## 💻 Languages Top 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanbrokenhome&layout=compact)
 
