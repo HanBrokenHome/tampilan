@@ -1,50 +1,24 @@
-<div id="header" align="center">
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+there👋;Welcome+To+My+Github🐱‍🏍"/></a>
- <div id="badges">
-  <a href="https://www.instagram.com/hanwithreactoemji/">
-    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <h1>
-  heyyy
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc2bmV2NGw2YmZ3OGU4bW1zcDN5bjgzZW5paHVoY2xkc2M2N29lbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto"/>
-</h1>
-</div>
- <div id="badges">
-  
- <!-- GIF dan Deskripsi Profil -->
+# 💫 About Me:
+Hi there! 👋 I'm Rayhan Dita, a passionate Front-End Developer with a focus on creating visually appealing and user-friendly websites. and have been honing my skills in web development ever since.<br><br>🌟 Tech Stack: HTML, CSS, JavaScript, React.js, Tailwind CSS<br>🛠️ Currently Learning: TypeScript, Next.js, and advanced React concepts<br>🎯 Goals: Build engaging, accessible, and responsive websites that provide excellent user experiences.<br>🌍 Hobbies: Exploring web design trends, contributing to open-source projects, and sharing knowledge.<br>
 
-</div>
 
-# About Me 💻
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frontendhannnn) 
 
-- :telescope: I worked as a web developer and front end developer.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HanBrokenHome&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HanBrokenHome&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HanBrokenHome&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- :seedling: I'm obsessed with technology
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HanBrokenHome&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- :zap: In my free time, I will clean up all the code errors and shorten the code so that the web runs smoothly.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🤔 Fun Fact, i am funny
+---
+[![](https://visitcount.itsvg.in/api?id=HanBrokenHome&icon=6&color=10)](https://visitcount.itsvg.in)
 
-## 🔧 Languages and Tools
-
-<div>  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" title="My Sql" alt="My Sql" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="40" title="Material UI" alt="Material Ui" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="40" title="Vite" alt="Vite" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" title="Tailwind" alt="Tailwind" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
- </div>
-
-## 🌟 My Streak🔥🔥
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HANBROKENHOME)
-
-## 💻 Languages Top 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanbrokenhome&layout=compact)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
